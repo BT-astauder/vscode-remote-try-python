@@ -3,7 +3,7 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+	"image": "b7bcd4131955dadf657841e4a1dea01500a85d6147d56634ffb236f18ec38252",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
